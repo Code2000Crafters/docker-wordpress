@@ -3,8 +3,6 @@ name: DIGITALOCEAN_DEPLOY
 on:
   push:
     branches: [ deploy ]
-  pull_request:
-    branches: [ deploy ]
 
 jobs:
   Build:
