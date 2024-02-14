@@ -11,7 +11,7 @@
 
             <p>Stay up to date on the latest features and releases by joining our newsletter.</p>
 
-            <div class="">
+            <div class="d-flex">
                 <input type="email" placeholder="Your E-mail" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
                 <button type="submit" class="btn btn-primary">Subscribe</button>
             </div>
